@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Namisha Portfolio</title>
+</head>
+<body>
+
+  <h1>Namisha Samidi</h1>
+  <h3>BSc IT Student - SLIIT</h3>
+
+  <h2>About Me</h2>
+  <p>I am an IT undergraduate passionate about software development and QA testing.</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Java</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>MySQL</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <p>Online Help Desk System (Java MVC)</p>
+
+  <h2>Contact</h2>
+  <p>Email: your@email.com</p>
+
+</body>
+</html>
